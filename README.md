@@ -22,3 +22,6 @@ The Realme X (codenamed _"RMX1901"_) is a mid-range smartphone from Realme. It w
 ## Device Picture
 
 ![Realme X](https://fdn2.gsmarena.com/vv/pics/realme/realme-x-1.jpg "Realme X")
+
+## CREDITS
+- Our SaiKishan Sir 
